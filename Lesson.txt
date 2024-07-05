@@ -1,0 +1,2 @@
+I am not working with jupyter notebook
+i will make a python script and work on that
