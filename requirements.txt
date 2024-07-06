@@ -1,3 +1,6 @@
 pandas
 joblib
 textstat
+matplotlib
+spacy
+nltk

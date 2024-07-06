@@ -1,2 +1,5 @@
 I am not working with jupyter notebook
 i will make a python script and work on that
+
+python -m spacy download en_core_web_trf
+
